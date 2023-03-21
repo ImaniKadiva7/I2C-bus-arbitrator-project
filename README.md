@@ -1,5 +1,9 @@
 # I2C-bus-arbitrator-project
 
+The purpose of this project is to demonstrate my experience in,
+  - Controlling and running multiple processes on multiple micro-controllers
+  - Controlling access of multiple micro-controllers to a shared I2C bus.
+
 Brief Summary of this project.
 
 In this project, the bus arbitrator is implemented as a finite state machine.
