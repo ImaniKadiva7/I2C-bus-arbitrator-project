@@ -109,3 +109,6 @@ In the Atmega micro-controller, the system is triggered after every 100milliseco
       
 The trigger variable is sampled after every 333ms in the nodeMCU.
 
+SYSTEM IMAGE BELOW
+
+![image](https://user-images.githubusercontent.com/105231479/226689609-c273f7b4-f495-4b53-a379-451b75a6f06e.png)
